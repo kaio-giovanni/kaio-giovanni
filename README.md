@@ -1,4 +1,6 @@
-### Hi, I'm Kaio Giovanni 👋
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kaio-giovanni" alt="kaio" /></p>
+
+### Hi, I'm Kaio 👋
 
 <!--
 **kaio-giovanni/kaio-giovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Born in Paraiba, Brazil
+- 🇧🇷 Born in Paraiba, Brazil
+- 👨🏻‍🎓 Bachelor of Computer Science at UEPB
+- 👨🏻‍💻 I'm currently working at [Cyan-Agroanalytics](https://cyan-agro.com)
 
-> Start doing what's necessary, then what's possible, and suddenly you're doing the impossible.
+"Start doing what's necessary, then what's possible, and suddenly you're doing the impossible."
 
-[![Gmail Bagde](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=malito:kaio.giovanni@gmail.com)](malito:kaio.giovanni@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-kaio-giovanni?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio0giovanni/)](https://www.linkedin.com/in/kaio-giovanni/)
+[![Instagram Badge](https://img.shields.io/badge/-kaio-giovanni?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaio_giovanni/?hl=pt-br)](https://instagram.com/kaio_giovanni)
+[![Gmail Bagde](https://img.shields.io/badge/-kaio-c14438??style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaio.giovanni@gmail.com)](mailto:kaio.giovanni@gmail.com)
 
 
 ## 🚀💻 Technologies & Tools
@@ -66,3 +73,4 @@ Born in Paraiba, Brazil
 ## ⚡ GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-giovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
