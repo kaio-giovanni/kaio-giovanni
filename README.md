@@ -78,7 +78,9 @@ Here are some ideas to get you started:
 ### 💬📬 Contact me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kaio-giovanni/"> <img src="https://img.shields.io/badge/-kaio-29ABF3?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
-<a href="mailto:kaio.giovanni@gmail.com"> <img src="https://img.shields.io/badge/-kaio-FF0000?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
-<a href="https://discordapp.com/users/711746176243728404"> <img src="https://img.shields.io/badge/-kaio-2A4FF0?style=for-the-badge&logo=Discord&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/kaio-giovanni/"> <img src="https://img.shields.io/badge/-Linkedin-29ABF3?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
+<a href="mailto:kaio.giovanni@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
+<a href="https://discordapp.com/users/711746176243728404"> <img src="https://img.shields.io/badge/-Discord-2A4FF0?style=for-the-badge&logo=Discord&logoColor=white"/> </a>
+<a href="https://www.facebook.com/kaio.giovanni.5"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+<a href="https://www.instagram.com/kaio_giovanni"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 </p>
