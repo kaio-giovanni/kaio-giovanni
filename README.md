@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### 🧑🏻‍💻 About me
 
-🇧🇷 Born in Paraiba, Brazil.\
-👨🏻‍🎓 Bachelor of Computer Science at UEPB.\
-🎼 Multi-instrumentalist musician.\
-👨🏻‍💻 I'm currently working at [Cyan](https://cyan-agro.com). 
+- 🇧🇷 Born in Paraiba, Brazil.
+- 👨🏻‍🎓 Bachelor of Computer Science at UEPB.
+- 🎼 Multi-instrumentalist musician.
+- 👨🏻‍💻 I'm currently working at [Cyan](https://cyan-agro.com). 
 
 
 ### 🚀💻 Technologies & Tools
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/kaio-giovanni">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaio-giovanni&layout=compact&langs_count=8&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaio-giovanni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaio-giovanni&layout=compact&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 
