@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kaio-giovanni" alt="kaio" /></p>
 
-### Hi, I'm Kaio 👋
+# Hi, I'm Kaio 👋
 
 <!--
 **kaio-giovanni/kaio-giovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,19 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🇧🇷 Born in Paraiba, Brazil
-- 👨🏻‍🎓 Bachelor of Computer Science at UEPB
-- 👨🏻‍💻 I'm currently working at [Cyan-Agroanalytics](https://cyan-agro.com)
+### 🧑🏻‍💻 About me
 
-"Start doing what's necessary, then what's possible, and suddenly you're doing the impossible."
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-kaio-giovanni?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio0giovanni/)](https://www.linkedin.com/in/kaio-giovanni/)
-[![Instagram Badge](https://img.shields.io/badge/-kaio-giovanni?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kaio_giovanni/?hl=pt-br)](https://instagram.com/kaio_giovanni)
-[![Gmail Bagde](https://img.shields.io/badge/-kaio-c14438??style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaio.giovanni@gmail.com)](mailto:kaio.giovanni@gmail.com)
+🇧🇷 Born in Paraiba, Brazil.\
+👨🏻‍🎓 Bachelor of Computer Science at UEPB.\
+🎼 Multi-instrumentalist musician.\
+👨🏻‍💻 I'm currently working at [Cyan](https://cyan-agro.com). 
 
 
-## 🚀💻 Technologies & Tools
+### 🚀💻 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -70,7 +66,17 @@ Here are some ideas to get you started:
 ![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-giovanni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/kaio-giovanni">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaio-giovanni&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaio-giovanni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
 
+### 💬📬 Contact me
+
+<a href="https://www.linkedin.com/in/kaio-giovanni/"> <img src="https://img.shields.io/badge/-kaio-giovanni?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
+<a href="mailto:kaio.giovanni@gmail.com"> <img src="https://img.shields.io/badge/-kaio-giovanni?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
+<a href="https://discordapp.com/users/711746176243728404"> <img src="https://img.shields.io/badge/-kaio-giovanni?style=for-the-badge&logo=Discord&logoColor=white"/> </a>
