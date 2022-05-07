@@ -24,7 +24,7 @@ Link para bagdes: https://github.com/alexandresanlim/Badges4-README.md-Profile
 ### 🧑🏻‍💻 About me
 
 - 🇧🇷 Born in Paraiba, Brazil.
-- 👨🏻‍🎓 Bachelor of Computer Science at UEPB.
+- 👨🏻‍🎓 Bachelor of Computer Science.
 - 🎼 Multi-instrumentalist musician.
 
 
