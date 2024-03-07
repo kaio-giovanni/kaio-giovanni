@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 
-Link para bagdes: https://github.com/alexandresanlim/Badges4-README.md-Profile
+Link para badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
 ### 🧑🏻‍💻 About me
@@ -33,6 +33,7 @@ Link para bagdes: https://github.com/alexandresanlim/Badges4-README.md-Profile
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
