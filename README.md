@@ -23,8 +23,8 @@ Link para badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ### 🧑🏻‍💻 About me
 
-- 🇧🇷 Born in Paraiba, Brazil.
-- 👨🏻‍🎓 Bachelor of Computer Science.
+- 🇧🇷 Born in Brazil.
+- 👨🏻‍🎓 Bachelor's degree in Computer Science
 - 🎼 Multi-instrumentalist musician.
 
 
